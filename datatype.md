@@ -24,3 +24,7 @@
 () prantishs ,
 {} breshis , curlibresis
 
+
+
+- datatype - memeory me hota hai 
+
