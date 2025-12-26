@@ -54,3 +54,13 @@ g = ch(3)
 # print(g(3))
 
 
+
+def name(f):
+    def surname(l):
+        return f + l
+    return surname
+
+fullname= name("raviraj")
+print(fullname("choudhary"))
+
+
